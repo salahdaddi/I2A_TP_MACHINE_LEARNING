@@ -1,0 +1,41 @@
+Name,Age,Gender,Score,Grade,City
+Alice Johnson,20.0,Female,85.0,A,Algiers
+Bob Smith,22.0,Male,72.0,B,Oran
+Charlie Brown,19.0,Male,91.0,A,Constantine
+Diana Prince,21.0,Female,67.0,C,Blida
+Ethan Hunt,23.0,Male,78.0,B,Algiers
+Fatima Zahra,20.0,Female,88.0,A,Oran
+George Miller,18.0,Male,54.0,D,Tlemcen
+Hana Benali,22.0,Female,95.0,A,Algiers
+Ivan Petrov,24.0,Male,61.0,C,Annaba
+Julia Roberts,19.0,Female,83.0,B,Blida
+Kevin Lee,21.0,Male,76.0,B,Oran
+Lina Haddad,20.0,Female,92.0,A,Constantine
+Mohamed Amine,23.0,Male,48.0,D,Algiers
+Nora Said,18.0,Female,71.0,B,Tlemcen
+Omar Khaled,25.0,Male,64.0,C,Annaba
+Alice Johnson,20.0,Female,85.0,A,Algiers
+Sara Ahmed,21.0,Female,89.0,A,Oran
+Youssef Karim,22.0,Male,58.0,D,Constantine
+Maya Chen,19.0,Female,74.0,B,Blida
+Adam Wilson,20.0,Male,81.0,A,Algiers
+  bob smith ,22.0,male,72.0,b, oran 
+Leila Mansour,,Female,86.0,A,Algiers
+Samir Boudiaf,-5.0,Male,63.0,C,Blida
+Emma Davis,21.0,,79.0,B,Tlemcen
+Noah Martin,20.0,Male,,B,Annaba
+Chloe Dubois,19.0,Female,105.0,A,Oran
+Rayan Ali,22.0,M,68.0,C,Constantine
+Sofia Garcia,18.0,female,90.0,A,algiers
+Liam Taylor,23.0,Male,57.0,D,Blida
+Amira Saidi,20.0,Female,82.0,B,Oran
+,21.0,Male,70.0,C,Tlemcen
+Ismail Rahmani,19.0,Male,77.0,B,
+Olivia White,22.0,Female,93.0,A,Annaba
+Peter Parker,20.0,Male,66.0,C,Constantine
+Meriem Kaci,21.0,Female,84.0,A,  BLIDA 
+Daniel Green,24.0,Male,0.0,F,Oran
+Amina Toumi,19.0,Female,73.0,B,Algiers
+Karim Bensaid,22.0,Male,62.0,C,Annaba
+Zara Khan,20.0,Female,87.0,A,Constantine
+Bob Smith,22.0,Male,72.0,B,Oran
